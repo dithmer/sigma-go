@@ -1,4 +1,4 @@
-module github.com/dthmer/sigma-go
+module github.com/dithmer/sigma-go
 
 go 1.18
 
